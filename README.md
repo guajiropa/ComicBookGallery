@@ -1,2 +1,2 @@
-# ComicBookGallery
-*Team Treehouse ASP.NET MVC Basice course* 
+ ##ComicBookGallery
+*Team Treehouse ASP.NET MVC Basics course* 
