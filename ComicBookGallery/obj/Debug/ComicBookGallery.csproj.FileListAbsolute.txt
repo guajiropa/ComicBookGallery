@@ -16,7 +16,6 @@ C:\Users\guaji\Documents\SRC\CS\TreeHouse\ASP.NET MVC Basics\ComicBookGallery\Co
 C:\Users\guaji\Documents\SRC\CS\TreeHouse\ASP.NET MVC Basics\ComicBookGallery\ComicBookGallery\bin\System.Web.Webpages.Razor.xml
 C:\Users\guaji\Documents\SRC\CS\TreeHouse\ASP.NET MVC Basics\ComicBookGallery\ComicBookGallery\bin\System.Web.Helpers.xml
 C:\Users\guaji\Documents\SRC\CS\TreeHouse\ASP.NET MVC Basics\ComicBookGallery\ComicBookGallery\bin\System.Web.Mvc.xml
-C:\Users\guaji\Documents\SRC\CS\TreeHouse\ASP.NET MVC Basics\ComicBookGallery\ComicBookGallery\obj\Debug\ComicBookGallery.csprojResolveAssemblyReference.cache
 C:\Users\guaji\Documents\SRC\CS\TreeHouse\ASP.NET MVC Basics\ComicBookGallery\ComicBookGallery\obj\Debug\ComicBookGallery.csproj.CoreCompileInputs.cache
 C:\Users\guaji\Documents\SRC\CS\TreeHouse\ASP.NET MVC Basics\ComicBookGallery\ComicBookGallery\obj\Debug\ComicBookGallery.dll
 C:\Users\guaji\Documents\SRC\CS\TreeHouse\ASP.NET MVC Basics\ComicBookGallery\ComicBookGallery\obj\Debug\ComicBookGallery.pdb
