@@ -12,6 +12,7 @@ namespace ComicBookGallery.Data
         {
             new ComicBook()
             {
+                Id = 1,
                 SeriesTitle = "The Amazing Spider-Man",
                 IssueNumber = 700,
                 DescriptionHtml = "<p>Final issue! Witness the final hours of Doctor Octopus' " +
@@ -30,6 +31,7 @@ namespace ComicBookGallery.Data
 
             new ComicBook()
             {
+                Id = 2,
                 SeriesTitle = "The Amazing Spider-Man",
                 IssueNumber = 657,
                 DescriptionHtml = "<p><strong>FF: THREE TIE-IN.</strong> Spider-Man visits the FF for " +
@@ -47,6 +49,7 @@ namespace ComicBookGallery.Data
 
             new ComicBook()
             {
+                Id = 3,
                 SeriesTitle = "Bone",
                 IssueNumber = 50,
                 DescriptionHtml = "<p><strong>The Dungeon & The Parapet, Part 1.</strong> Thorn is " +
@@ -62,7 +65,7 @@ namespace ComicBookGallery.Data
                 },
                 Favorite = false
             }
-    };
+        };
         public ComicBook GetComicBook(int id)
         {
             ComicBook comicBookToReturn = null;
